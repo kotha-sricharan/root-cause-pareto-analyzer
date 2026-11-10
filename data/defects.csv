@@ -1,0 +1,345 @@
+# SYNTHETIC DATA - generated for demonstration only, not real production data
+date,line,defect_code,category,units_affected,shift,description
+2026-09-28,Line A,WELD-204,Machine,28,Day,Tab weld weak / burn-through
+2026-09-28,Line A,TEMP-330,Environment,199,Day,Formation chamber temperature excursion
+2026-09-28,Line B,WELD-204,Machine,155,Night,Tab weld weak / burn-through
+2026-09-28,Line B,CONT-118,Material,76,Day,Electrolyte contamination particles
+2026-09-28,Line B,ELEC-101,Material,31,Day,Electrode coating thickness out of spec
+2026-09-28,Line B,WELD-204,Machine,93,Swing,Tab weld weak / burn-through
+2026-09-28,Line C,ELEC-101,Material,75,Day,Electrode coating thickness out of spec
+2026-09-28,Line C,ELEC-101,Material,31,Swing,Electrode coating thickness out of spec
+2026-09-28,Line C,ALIGN-207,Machine,27,Swing,Cell stacking misalignment
+2026-09-28,Line C,ELEC-101,Material,11,Swing,Electrode coating thickness out of spec
+2026-09-28,Line C,ELEC-101,Material,184,Swing,Electrode coating thickness out of spec
+2026-09-29,Line B,ELEC-101,Material,25,Swing,Electrode coating thickness out of spec
+2026-09-29,Line B,CONT-118,Material,25,Day,Electrolyte contamination particles
+2026-09-29,Line B,LABEL-410,Man,76,Night,Label / print mismatch on finished cell
+2026-09-29,Line B,CONT-118,Material,46,Night,Electrolyte contamination particles
+2026-09-29,Line C,TEMP-330,Environment,122,Swing,Formation chamber temperature excursion
+2026-09-29,Line C,WELD-204,Machine,163,Night,Tab weld weak / burn-through
+2026-09-29,Line C,SEAL-310,Method,22,Day,Pouch seal leak at edge
+2026-09-29,Line C,WELD-204,Machine,73,Swing,Tab weld weak / burn-through
+2026-09-30,Line A,SEAL-310,Method,46,Night,Pouch seal leak at edge
+2026-09-30,Line A,ELEC-101,Material,211,Night,Electrode coating thickness out of spec
+2026-09-30,Line A,WELD-204,Machine,59,Swing,Tab weld weak / burn-through
+2026-09-30,Line A,WELD-204,Machine,195,Swing,Tab weld weak / burn-through
+2026-09-30,Line B,ELEC-101,Material,220,Day,Electrode coating thickness out of spec
+2026-09-30,Line B,LABEL-410,Man,59,Swing,Label / print mismatch on finished cell
+2026-09-30,Line B,LABEL-410,Man,97,Day,Label / print mismatch on finished cell
+2026-09-30,Line C,CONT-118,Material,167,Day,Electrolyte contamination particles
+2026-09-30,Line C,WELD-204,Machine,181,Swing,Tab weld weak / burn-through
+2026-09-30,Line C,SEAL-310,Method,122,Day,Pouch seal leak at edge
+2026-09-30,Line C,SEAL-310,Method,154,Night,Pouch seal leak at edge
+2026-10-01,Line A,SEAL-310,Method,198,Day,Pouch seal leak at edge
+2026-10-01,Line A,LABEL-410,Man,165,Day,Label / print mismatch on finished cell
+2026-10-01,Line B,TEMP-330,Environment,157,Day,Formation chamber temperature excursion
+2026-10-01,Line B,ALIGN-207,Machine,33,Night,Cell stacking misalignment
+2026-10-01,Line C,WELD-204,Machine,124,Swing,Tab weld weak / burn-through
+2026-10-01,Line C,ELEC-101,Material,7,Swing,Electrode coating thickness out of spec
+2026-10-01,Line C,ALIGN-207,Machine,142,Night,Cell stacking misalignment
+2026-10-02,Line A,ELEC-101,Material,189,Swing,Electrode coating thickness out of spec
+2026-10-02,Line A,SEAL-310,Method,165,Night,Pouch seal leak at edge
+2026-10-02,Line A,ELEC-101,Material,143,Swing,Electrode coating thickness out of spec
+2026-10-02,Line A,ELEC-101,Material,150,Day,Electrode coating thickness out of spec
+2026-10-02,Line B,ELEC-101,Material,217,Night,Electrode coating thickness out of spec
+2026-10-02,Line B,ELEC-101,Material,213,Day,Electrode coating thickness out of spec
+2026-10-02,Line C,WELD-204,Machine,200,Day,Tab weld weak / burn-through
+2026-10-02,Line C,TEMP-330,Environment,160,Day,Formation chamber temperature excursion
+2026-10-02,Line C,CAL-512,Measurement,87,Night,Sensor calibration drift on coating line
+2026-10-03,Line B,ELEC-101,Material,145,Day,Electrode coating thickness out of spec
+2026-10-03,Line B,ALIGN-207,Machine,176,Swing,Cell stacking misalignment
+2026-10-03,Line C,WELD-204,Machine,113,Day,Tab weld weak / burn-through
+2026-10-03,Line C,CAL-512,Measurement,181,Day,Sensor calibration drift on coating line
+2026-10-04,Line A,ELEC-101,Material,91,Day,Electrode coating thickness out of spec
+2026-10-04,Line A,SEAL-310,Method,155,Day,Pouch seal leak at edge
+2026-10-04,Line A,ELEC-101,Material,89,Day,Electrode coating thickness out of spec
+2026-10-04,Line C,WELD-204,Machine,120,Day,Tab weld weak / burn-through
+2026-10-04,Line C,ELEC-101,Material,166,Day,Electrode coating thickness out of spec
+2026-10-05,Line A,ELEC-101,Material,173,Night,Electrode coating thickness out of spec
+2026-10-05,Line A,ELEC-101,Material,142,Night,Electrode coating thickness out of spec
+2026-10-05,Line A,ELEC-101,Material,76,Night,Electrode coating thickness out of spec
+2026-10-05,Line A,ELEC-101,Material,118,Swing,Electrode coating thickness out of spec
+2026-10-05,Line B,SEAL-310,Method,211,Night,Pouch seal leak at edge
+2026-10-05,Line B,WELD-204,Machine,124,Swing,Tab weld weak / burn-through
+2026-10-05,Line C,ELEC-101,Material,129,Day,Electrode coating thickness out of spec
+2026-10-05,Line C,SEAL-310,Method,151,Swing,Pouch seal leak at edge
+2026-10-05,Line C,ELEC-101,Material,170,Day,Electrode coating thickness out of spec
+2026-10-05,Line C,ELEC-101,Material,91,Day,Electrode coating thickness out of spec
+2026-10-06,Line A,MISC-999,Method,47,Night,Other / unclassified
+2026-10-06,Line A,SEAL-310,Method,107,Day,Pouch seal leak at edge
+2026-10-06,Line A,ELEC-101,Material,104,Night,Electrode coating thickness out of spec
+2026-10-06,Line B,CAL-512,Measurement,78,Night,Sensor calibration drift on coating line
+2026-10-06,Line C,ELEC-101,Material,219,Day,Electrode coating thickness out of spec
+2026-10-06,Line C,CONT-118,Material,205,Swing,Electrolyte contamination particles
+2026-10-07,Line A,ALIGN-207,Machine,53,Night,Cell stacking misalignment
+2026-10-07,Line A,ELEC-101,Material,153,Swing,Electrode coating thickness out of spec
+2026-10-07,Line A,ELEC-101,Material,177,Day,Electrode coating thickness out of spec
+2026-10-07,Line A,CAL-512,Measurement,176,Swing,Sensor calibration drift on coating line
+2026-10-07,Line B,ELEC-101,Material,133,Swing,Electrode coating thickness out of spec
+2026-10-07,Line B,WELD-204,Machine,106,Day,Tab weld weak / burn-through
+2026-10-07,Line C,SEAL-310,Method,85,Day,Pouch seal leak at edge
+2026-10-07,Line C,ELEC-101,Material,25,Day,Electrode coating thickness out of spec
+2026-10-07,Line C,WELD-204,Machine,68,Swing,Tab weld weak / burn-through
+2026-10-07,Line C,SEAL-310,Method,25,Night,Pouch seal leak at edge
+2026-10-07,Line C,CONT-118,Material,138,Night,Electrolyte contamination particles
+2026-10-08,Line A,ELEC-101,Material,134,Night,Electrode coating thickness out of spec
+2026-10-08,Line A,WELD-204,Machine,117,Swing,Tab weld weak / burn-through
+2026-10-08,Line A,WELD-204,Machine,195,Swing,Tab weld weak / burn-through
+2026-10-08,Line A,ALIGN-207,Machine,180,Swing,Cell stacking misalignment
+2026-10-08,Line B,CONT-118,Material,85,Day,Electrolyte contamination particles
+2026-10-08,Line B,ELEC-101,Material,22,Day,Electrode coating thickness out of spec
+2026-10-08,Line B,ELEC-101,Material,159,Day,Electrode coating thickness out of spec
+2026-10-08,Line C,ELEC-101,Material,149,Day,Electrode coating thickness out of spec
+2026-10-08,Line C,ALIGN-207,Machine,211,Swing,Cell stacking misalignment
+2026-10-08,Line C,SEAL-310,Method,214,Swing,Pouch seal leak at edge
+2026-10-08,Line C,WELD-204,Machine,31,Day,Tab weld weak / burn-through
+2026-10-09,Line A,ELEC-101,Material,181,Day,Electrode coating thickness out of spec
+2026-10-09,Line A,ELEC-101,Material,15,Night,Electrode coating thickness out of spec
+2026-10-09,Line A,WELD-204,Machine,96,Day,Tab weld weak / burn-through
+2026-10-09,Line A,ELEC-101,Material,46,Day,Electrode coating thickness out of spec
+2026-10-09,Line B,WELD-204,Machine,69,Day,Tab weld weak / burn-through
+2026-10-09,Line B,ELEC-101,Material,217,Night,Electrode coating thickness out of spec
+2026-10-09,Line B,ELEC-101,Material,202,Day,Electrode coating thickness out of spec
+2026-10-09,Line B,CONT-118,Material,46,Swing,Electrolyte contamination particles
+2026-10-09,Line B,SEAL-310,Method,154,Swing,Pouch seal leak at edge
+2026-10-09,Line B,ALIGN-207,Machine,163,Swing,Cell stacking misalignment
+2026-10-09,Line C,WELD-204,Machine,114,Swing,Tab weld weak / burn-through
+2026-10-09,Line C,CONT-118,Material,31,Night,Electrolyte contamination particles
+2026-10-10,Line A,TEMP-330,Environment,62,Day,Formation chamber temperature excursion
+2026-10-10,Line B,LABEL-410,Man,61,Day,Label / print mismatch on finished cell
+2026-10-10,Line B,TEMP-330,Environment,94,Night,Formation chamber temperature excursion
+2026-10-10,Line C,ELEC-101,Material,90,Night,Electrode coating thickness out of spec
+2026-10-10,Line C,TEMP-330,Environment,212,Day,Formation chamber temperature excursion
+2026-10-10,Line C,WELD-204,Machine,32,Night,Tab weld weak / burn-through
+2026-10-11,Line B,WELD-204,Machine,22,Night,Tab weld weak / burn-through
+2026-10-11,Line B,ELEC-101,Material,50,Swing,Electrode coating thickness out of spec
+2026-10-11,Line C,WELD-204,Machine,107,Swing,Tab weld weak / burn-through
+2026-10-11,Line C,MISC-999,Method,89,Day,Other / unclassified
+2026-10-12,Line A,MISC-999,Method,103,Swing,Other / unclassified
+2026-10-12,Line A,ELEC-101,Material,186,Night,Electrode coating thickness out of spec
+2026-10-12,Line A,WELD-204,Machine,175,Night,Tab weld weak / burn-through
+2026-10-12,Line B,ALIGN-207,Machine,116,Swing,Cell stacking misalignment
+2026-10-12,Line C,ELEC-101,Material,116,Night,Electrode coating thickness out of spec
+2026-10-12,Line C,ELEC-101,Material,180,Swing,Electrode coating thickness out of spec
+2026-10-12,Line C,CAL-512,Measurement,176,Day,Sensor calibration drift on coating line
+2026-10-12,Line C,CONT-118,Material,36,Swing,Electrolyte contamination particles
+2026-10-13,Line A,ALIGN-207,Machine,162,Swing,Cell stacking misalignment
+2026-10-13,Line A,WELD-204,Machine,115,Swing,Tab weld weak / burn-through
+2026-10-13,Line A,WELD-204,Machine,135,Night,Tab weld weak / burn-through
+2026-10-13,Line B,WELD-204,Machine,146,Day,Tab weld weak / burn-through
+2026-10-13,Line B,CONT-118,Material,124,Night,Electrolyte contamination particles
+2026-10-13,Line C,SEAL-310,Method,109,Night,Pouch seal leak at edge
+2026-10-13,Line C,ELEC-101,Material,102,Swing,Electrode coating thickness out of spec
+2026-10-13,Line C,WELD-204,Machine,218,Day,Tab weld weak / burn-through
+2026-10-14,Line A,CONT-118,Material,214,Day,Electrolyte contamination particles
+2026-10-14,Line A,CONT-118,Material,211,Day,Electrolyte contamination particles
+2026-10-14,Line A,ELEC-101,Material,67,Night,Electrode coating thickness out of spec
+2026-10-14,Line A,CONT-118,Material,121,Night,Electrolyte contamination particles
+2026-10-14,Line A,ALIGN-207,Machine,50,Swing,Cell stacking misalignment
+2026-10-14,Line A,SEAL-310,Method,147,Day,Pouch seal leak at edge
+2026-10-14,Line A,CAL-512,Measurement,121,Day,Sensor calibration drift on coating line
+2026-10-14,Line B,CONT-118,Material,107,Day,Electrolyte contamination particles
+2026-10-14,Line C,LABEL-410,Man,48,Swing,Label / print mismatch on finished cell
+2026-10-14,Line C,ELEC-101,Material,174,Swing,Electrode coating thickness out of spec
+2026-10-14,Line C,LABEL-410,Man,54,Swing,Label / print mismatch on finished cell
+2026-10-14,Line C,ELEC-101,Material,6,Day,Electrode coating thickness out of spec
+2026-10-15,Line A,WELD-204,Machine,195,Night,Tab weld weak / burn-through
+2026-10-15,Line A,WELD-204,Machine,220,Swing,Tab weld weak / burn-through
+2026-10-15,Line A,LABEL-410,Man,40,Day,Label / print mismatch on finished cell
+2026-10-15,Line B,WELD-204,Machine,161,Swing,Tab weld weak / burn-through
+2026-10-15,Line B,LABEL-410,Man,217,Swing,Label / print mismatch on finished cell
+2026-10-15,Line B,ELEC-101,Material,24,Swing,Electrode coating thickness out of spec
+2026-10-15,Line B,WELD-204,Machine,90,Night,Tab weld weak / burn-through
+2026-10-15,Line B,ELEC-101,Material,109,Night,Electrode coating thickness out of spec
+2026-10-15,Line B,SEAL-310,Method,20,Day,Pouch seal leak at edge
+2026-10-15,Line C,SEAL-310,Method,148,Swing,Pouch seal leak at edge
+2026-10-15,Line C,WELD-204,Machine,129,Swing,Tab weld weak / burn-through
+2026-10-15,Line C,ELEC-101,Material,44,Swing,Electrode coating thickness out of spec
+2026-10-16,Line A,CONT-118,Material,169,Night,Electrolyte contamination particles
+2026-10-16,Line B,ELEC-101,Material,81,Night,Electrode coating thickness out of spec
+2026-10-16,Line B,TEMP-330,Environment,142,Swing,Formation chamber temperature excursion
+2026-10-16,Line B,ELEC-101,Material,129,Day,Electrode coating thickness out of spec
+2026-10-16,Line B,ALIGN-207,Machine,37,Swing,Cell stacking misalignment
+2026-10-16,Line B,SEAL-310,Method,156,Swing,Pouch seal leak at edge
+2026-10-16,Line B,ELEC-101,Material,51,Day,Electrode coating thickness out of spec
+2026-10-16,Line B,WELD-204,Machine,59,Night,Tab weld weak / burn-through
+2026-10-16,Line C,WELD-204,Machine,183,Day,Tab weld weak / burn-through
+2026-10-16,Line C,TEMP-330,Environment,102,Night,Formation chamber temperature excursion
+2026-10-16,Line C,ALIGN-207,Machine,61,Night,Cell stacking misalignment
+2026-10-16,Line C,WELD-204,Machine,178,Night,Tab weld weak / burn-through
+2026-10-17,Line A,ELEC-101,Material,125,Day,Electrode coating thickness out of spec
+2026-10-17,Line A,ALIGN-207,Machine,94,Day,Cell stacking misalignment
+2026-10-17,Line A,CAL-512,Measurement,219,Day,Sensor calibration drift on coating line
+2026-10-17,Line B,WELD-204,Machine,76,Night,Tab weld weak / burn-through
+2026-10-17,Line C,CONT-118,Material,15,Day,Electrolyte contamination particles
+2026-10-18,Line A,SEAL-310,Method,124,Swing,Pouch seal leak at edge
+2026-10-18,Line B,ELEC-101,Material,176,Day,Electrode coating thickness out of spec
+2026-10-18,Line B,ELEC-101,Material,47,Swing,Electrode coating thickness out of spec
+2026-10-18,Line C,CONT-118,Material,188,Day,Electrolyte contamination particles
+2026-10-19,Line B,TEMP-330,Environment,32,Swing,Formation chamber temperature excursion
+2026-10-19,Line B,ELEC-101,Material,152,Swing,Electrode coating thickness out of spec
+2026-10-19,Line B,LABEL-410,Man,106,Swing,Label / print mismatch on finished cell
+2026-10-19,Line B,WELD-204,Machine,174,Night,Tab weld weak / burn-through
+2026-10-19,Line B,TEMP-330,Environment,32,Night,Formation chamber temperature excursion
+2026-10-19,Line B,ALIGN-207,Machine,50,Swing,Cell stacking misalignment
+2026-10-19,Line C,ELEC-101,Material,181,Swing,Electrode coating thickness out of spec
+2026-10-19,Line C,ELEC-101,Material,202,Night,Electrode coating thickness out of spec
+2026-10-19,Line C,TEMP-330,Environment,211,Day,Formation chamber temperature excursion
+2026-10-19,Line C,TEMP-330,Environment,205,Day,Formation chamber temperature excursion
+2026-10-19,Line C,ELEC-101,Material,92,Day,Electrode coating thickness out of spec
+2026-10-19,Line C,MISC-999,Method,217,Night,Other / unclassified
+2026-10-20,Line A,ELEC-101,Material,26,Day,Electrode coating thickness out of spec
+2026-10-20,Line B,MISC-999,Method,162,Swing,Other / unclassified
+2026-10-20,Line B,ALIGN-207,Machine,116,Swing,Cell stacking misalignment
+2026-10-20,Line B,SEAL-310,Method,67,Day,Pouch seal leak at edge
+2026-10-20,Line B,WELD-204,Machine,67,Night,Tab weld weak / burn-through
+2026-10-20,Line B,ELEC-101,Material,51,Night,Electrode coating thickness out of spec
+2026-10-20,Line B,ELEC-101,Material,92,Night,Electrode coating thickness out of spec
+2026-10-20,Line B,ALIGN-207,Machine,147,Day,Cell stacking misalignment
+2026-10-20,Line C,SEAL-310,Method,102,Night,Pouch seal leak at edge
+2026-10-20,Line C,LABEL-410,Man,75,Swing,Label / print mismatch on finished cell
+2026-10-21,Line A,TEMP-330,Environment,80,Day,Formation chamber temperature excursion
+2026-10-21,Line A,WELD-204,Machine,83,Swing,Tab weld weak / burn-through
+2026-10-21,Line A,ELEC-101,Material,189,Day,Electrode coating thickness out of spec
+2026-10-21,Line A,ELEC-101,Material,194,Night,Electrode coating thickness out of spec
+2026-10-21,Line A,SEAL-310,Method,218,Day,Pouch seal leak at edge
+2026-10-21,Line B,SEAL-310,Method,146,Swing,Pouch seal leak at edge
+2026-10-21,Line B,WELD-204,Machine,74,Night,Tab weld weak / burn-through
+2026-10-21,Line C,SEAL-310,Method,130,Night,Pouch seal leak at edge
+2026-10-21,Line C,WELD-204,Machine,145,Night,Tab weld weak / burn-through
+2026-10-21,Line C,WELD-204,Machine,142,Swing,Tab weld weak / burn-through
+2026-10-21,Line C,WELD-204,Machine,199,Swing,Tab weld weak / burn-through
+2026-10-22,Line A,ELEC-101,Material,82,Day,Electrode coating thickness out of spec
+2026-10-22,Line A,ALIGN-207,Machine,75,Day,Cell stacking misalignment
+2026-10-22,Line A,ELEC-101,Material,151,Night,Electrode coating thickness out of spec
+2026-10-22,Line B,SEAL-310,Method,92,Day,Pouch seal leak at edge
+2026-10-22,Line B,MISC-999,Method,127,Day,Other / unclassified
+2026-10-22,Line B,TEMP-330,Environment,130,Day,Formation chamber temperature excursion
+2026-10-22,Line C,MISC-999,Method,79,Swing,Other / unclassified
+2026-10-22,Line C,CAL-512,Measurement,197,Night,Sensor calibration drift on coating line
+2026-10-23,Line A,CONT-118,Material,43,Day,Electrolyte contamination particles
+2026-10-23,Line A,TEMP-330,Environment,203,Swing,Formation chamber temperature excursion
+2026-10-23,Line A,ELEC-101,Material,146,Day,Electrode coating thickness out of spec
+2026-10-23,Line B,TEMP-330,Environment,26,Day,Formation chamber temperature excursion
+2026-10-23,Line B,ELEC-101,Material,160,Swing,Electrode coating thickness out of spec
+2026-10-23,Line B,WELD-204,Machine,81,Swing,Tab weld weak / burn-through
+2026-10-23,Line B,MISC-999,Method,150,Swing,Other / unclassified
+2026-10-23,Line B,CONT-118,Material,174,Day,Electrolyte contamination particles
+2026-10-23,Line B,ELEC-101,Material,120,Swing,Electrode coating thickness out of spec
+2026-10-23,Line C,ELEC-101,Material,30,Day,Electrode coating thickness out of spec
+2026-10-24,Line A,WELD-204,Machine,78,Swing,Tab weld weak / burn-through
+2026-10-24,Line A,SEAL-310,Method,113,Day,Pouch seal leak at edge
+2026-10-24,Line A,TEMP-330,Environment,20,Day,Formation chamber temperature excursion
+2026-10-24,Line B,WELD-204,Machine,23,Swing,Tab weld weak / burn-through
+2026-10-24,Line B,ELEC-101,Material,206,Swing,Electrode coating thickness out of spec
+2026-10-24,Line C,SEAL-310,Method,43,Night,Pouch seal leak at edge
+2026-10-25,Line A,SEAL-310,Method,158,Day,Pouch seal leak at edge
+2026-10-25,Line B,WELD-204,Machine,133,Swing,Tab weld weak / burn-through
+2026-10-25,Line C,SEAL-310,Method,78,Night,Pouch seal leak at edge
+2026-10-25,Line C,ELEC-101,Material,82,Swing,Electrode coating thickness out of spec
+2026-10-25,Line C,LABEL-410,Man,87,Swing,Label / print mismatch on finished cell
+2026-10-26,Line A,ELEC-101,Material,177,Swing,Electrode coating thickness out of spec
+2026-10-26,Line A,SEAL-310,Method,200,Swing,Pouch seal leak at edge
+2026-10-26,Line A,TEMP-330,Environment,125,Night,Formation chamber temperature excursion
+2026-10-26,Line B,WELD-204,Machine,176,Day,Tab weld weak / burn-through
+2026-10-26,Line B,TEMP-330,Environment,110,Swing,Formation chamber temperature excursion
+2026-10-26,Line C,TEMP-330,Environment,15,Day,Formation chamber temperature excursion
+2026-10-26,Line C,SEAL-310,Method,118,Night,Pouch seal leak at edge
+2026-10-26,Line C,ELEC-101,Material,116,Swing,Electrode coating thickness out of spec
+2026-10-27,Line A,ELEC-101,Material,85,Night,Electrode coating thickness out of spec
+2026-10-27,Line B,WELD-204,Machine,213,Swing,Tab weld weak / burn-through
+2026-10-27,Line B,WELD-204,Machine,136,Day,Tab weld weak / burn-through
+2026-10-27,Line C,CONT-118,Material,123,Night,Electrolyte contamination particles
+2026-10-27,Line C,ELEC-101,Material,97,Swing,Electrode coating thickness out of spec
+2026-10-27,Line C,ALIGN-207,Machine,118,Day,Cell stacking misalignment
+2026-10-27,Line C,ELEC-101,Material,38,Night,Electrode coating thickness out of spec
+2026-10-27,Line C,WELD-204,Machine,129,Day,Tab weld weak / burn-through
+2026-10-27,Line C,ELEC-101,Material,160,Day,Electrode coating thickness out of spec
+2026-10-28,Line A,WELD-204,Machine,220,Day,Tab weld weak / burn-through
+2026-10-28,Line A,SEAL-310,Method,170,Day,Pouch seal leak at edge
+2026-10-28,Line A,MISC-999,Method,121,Swing,Other / unclassified
+2026-10-28,Line A,ELEC-101,Material,158,Swing,Electrode coating thickness out of spec
+2026-10-28,Line A,ALIGN-207,Machine,22,Night,Cell stacking misalignment
+2026-10-28,Line A,WELD-204,Machine,77,Swing,Tab weld weak / burn-through
+2026-10-28,Line B,ALIGN-207,Machine,218,Night,Cell stacking misalignment
+2026-10-28,Line B,ALIGN-207,Machine,92,Swing,Cell stacking misalignment
+2026-10-28,Line C,ELEC-101,Material,8,Swing,Electrode coating thickness out of spec
+2026-10-28,Line C,SEAL-310,Method,79,Swing,Pouch seal leak at edge
+2026-10-28,Line C,WELD-204,Machine,153,Swing,Tab weld weak / burn-through
+2026-10-29,Line A,MISC-999,Method,133,Swing,Other / unclassified
+2026-10-29,Line A,WELD-204,Machine,117,Day,Tab weld weak / burn-through
+2026-10-29,Line B,LABEL-410,Man,142,Night,Label / print mismatch on finished cell
+2026-10-29,Line B,WELD-204,Machine,53,Swing,Tab weld weak / burn-through
+2026-10-29,Line B,ELEC-101,Material,64,Night,Electrode coating thickness out of spec
+2026-10-29,Line B,CAL-512,Measurement,103,Swing,Sensor calibration drift on coating line
+2026-10-29,Line C,WELD-204,Machine,200,Swing,Tab weld weak / burn-through
+2026-10-29,Line C,ELEC-101,Material,126,Swing,Electrode coating thickness out of spec
+2026-10-29,Line C,TEMP-330,Environment,43,Night,Formation chamber temperature excursion
+2026-10-30,Line A,CAL-512,Measurement,189,Day,Sensor calibration drift on coating line
+2026-10-30,Line A,CONT-118,Material,166,Swing,Electrolyte contamination particles
+2026-10-30,Line A,CAL-512,Measurement,196,Day,Sensor calibration drift on coating line
+2026-10-30,Line A,WELD-204,Machine,199,Swing,Tab weld weak / burn-through
+2026-10-30,Line A,ALIGN-207,Machine,118,Day,Cell stacking misalignment
+2026-10-30,Line B,SEAL-310,Method,91,Swing,Pouch seal leak at edge
+2026-10-30,Line B,CONT-118,Material,143,Day,Electrolyte contamination particles
+2026-10-30,Line C,WELD-204,Machine,44,Day,Tab weld weak / burn-through
+2026-10-30,Line C,CONT-118,Material,25,Night,Electrolyte contamination particles
+2026-10-30,Line C,TEMP-330,Environment,102,Night,Formation chamber temperature excursion
+2026-10-31,Line A,LABEL-410,Man,88,Day,Label / print mismatch on finished cell
+2026-10-31,Line A,TEMP-330,Environment,49,Day,Formation chamber temperature excursion
+2026-10-31,Line B,WELD-204,Machine,115,Day,Tab weld weak / burn-through
+2026-10-31,Line B,ELEC-101,Material,149,Swing,Electrode coating thickness out of spec
+2026-10-31,Line B,CONT-118,Material,163,Swing,Electrolyte contamination particles
+2026-11-01,Line A,SEAL-310,Method,118,Night,Pouch seal leak at edge
+2026-11-01,Line B,SEAL-310,Method,122,Night,Pouch seal leak at edge
+2026-11-01,Line B,CONT-118,Material,78,Swing,Electrolyte contamination particles
+2026-11-01,Line C,SEAL-310,Method,41,Day,Pouch seal leak at edge
+2026-11-02,Line A,TEMP-330,Environment,65,Night,Formation chamber temperature excursion
+2026-11-02,Line B,WELD-204,Machine,181,Night,Tab weld weak / burn-through
+2026-11-02,Line B,WELD-204,Machine,55,Night,Tab weld weak / burn-through
+2026-11-02,Line B,TEMP-330,Environment,203,Day,Formation chamber temperature excursion
+2026-11-02,Line B,CONT-118,Material,61,Swing,Electrolyte contamination particles
+2026-11-02,Line B,ELEC-101,Material,178,Swing,Electrode coating thickness out of spec
+2026-11-02,Line C,SEAL-310,Method,80,Swing,Pouch seal leak at edge
+2026-11-02,Line C,WELD-204,Machine,106,Night,Tab weld weak / burn-through
+2026-11-02,Line C,ELEC-101,Material,204,Swing,Electrode coating thickness out of spec
+2026-11-02,Line C,MISC-999,Method,195,Night,Other / unclassified
+2026-11-03,Line A,CONT-118,Material,165,Day,Electrolyte contamination particles
+2026-11-03,Line A,ALIGN-207,Machine,153,Night,Cell stacking misalignment
+2026-11-03,Line A,ALIGN-207,Machine,80,Night,Cell stacking misalignment
+2026-11-03,Line A,ALIGN-207,Machine,56,Day,Cell stacking misalignment
+2026-11-03,Line A,CAL-512,Measurement,70,Night,Sensor calibration drift on coating line
+2026-11-03,Line A,ALIGN-207,Machine,178,Swing,Cell stacking misalignment
+2026-11-03,Line B,ALIGN-207,Machine,140,Swing,Cell stacking misalignment
+2026-11-03,Line B,MISC-999,Method,196,Night,Other / unclassified
+2026-11-03,Line B,TEMP-330,Environment,24,Day,Formation chamber temperature excursion
+2026-11-03,Line B,CONT-118,Material,210,Swing,Electrolyte contamination particles
+2026-11-03,Line B,WELD-204,Machine,8,Night,Tab weld weak / burn-through
+2026-11-03,Line C,LABEL-410,Man,15,Night,Label / print mismatch on finished cell
+2026-11-04,Line A,CAL-512,Measurement,177,Day,Sensor calibration drift on coating line
+2026-11-04,Line A,CAL-512,Measurement,170,Day,Sensor calibration drift on coating line
+2026-11-04,Line A,CONT-118,Material,40,Day,Electrolyte contamination particles
+2026-11-04,Line B,ELEC-101,Material,177,Swing,Electrode coating thickness out of spec
+2026-11-04,Line B,CONT-118,Material,184,Night,Electrolyte contamination particles
+2026-11-04,Line B,CAL-512,Measurement,131,Day,Sensor calibration drift on coating line
+2026-11-04,Line C,CONT-118,Material,102,Swing,Electrolyte contamination particles
+2026-11-04,Line C,SEAL-310,Method,148,Night,Pouch seal leak at edge
+2026-11-04,Line C,ELEC-101,Material,39,Night,Electrode coating thickness out of spec
+2026-11-04,Line C,WELD-204,Machine,195,Swing,Tab weld weak / burn-through
+2026-11-05,Line A,TEMP-330,Environment,180,Night,Formation chamber temperature excursion
+2026-11-05,Line A,WELD-204,Machine,36,Night,Tab weld weak / burn-through
+2026-11-05,Line A,ELEC-101,Material,169,Swing,Electrode coating thickness out of spec
+2026-11-05,Line A,SEAL-310,Method,17,Night,Pouch seal leak at edge
+2026-11-05,Line A,ELEC-101,Material,206,Swing,Electrode coating thickness out of spec
+2026-11-05,Line B,CONT-118,Material,13,Swing,Electrolyte contamination particles
+2026-11-05,Line B,WELD-204,Machine,118,Day,Tab weld weak / burn-through
+2026-11-05,Line C,WELD-204,Machine,191,Day,Tab weld weak / burn-through
+2026-11-05,Line C,LABEL-410,Man,30,Night,Label / print mismatch on finished cell
+2026-11-05,Line C,SEAL-310,Method,96,Day,Pouch seal leak at edge
+2026-11-06,Line A,ELEC-101,Material,89,Day,Electrode coating thickness out of spec
+2026-11-06,Line A,TEMP-330,Environment,38,Swing,Formation chamber temperature excursion
+2026-11-06,Line A,ELEC-101,Material,33,Swing,Electrode coating thickness out of spec
+2026-11-06,Line A,LABEL-410,Man,8,Night,Label / print mismatch on finished cell
+2026-11-06,Line A,ALIGN-207,Machine,155,Night,Cell stacking misalignment
+2026-11-06,Line C,ELEC-101,Material,58,Swing,Electrode coating thickness out of spec
+2026-11-06,Line C,ALIGN-207,Machine,5,Night,Cell stacking misalignment
