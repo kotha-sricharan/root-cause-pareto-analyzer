@@ -81,8 +81,11 @@ def pareto_table(df: pd.DataFrame, top: int) -> pd.DataFrame:
         .reset_index()
     )
     total = grouped["incidents"].sum()
-    grouped["pct_of_incidents"] = (grouped["incidents"] / total * 100).round(1)
-    grouped["cumulative_pct"] = grouped["pct_of_incidents"].cumsum().round(1)
+    # Keep full precision internally: cumulative % is cumulative
+    # incident counts / total incidents, rounded only for display.
+    # The 80% vital-few cutoff below uses these unrounded values.
+    grouped["pct_of_incidents"] = grouped["incidents"] / total * 100
+    grouped["cumulative_pct"] = grouped["incidents"].cumsum() / total * 100
     grouped["rank"] = range(1, len(grouped) + 1)
     return grouped, total
 

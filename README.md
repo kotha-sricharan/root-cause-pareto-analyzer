@@ -66,8 +66,8 @@ Top defect codes (Pareto):
   ELEC-101: 95 incidents (27.7%, cumulative 27.7%)
   WELD-204: 70 incidents (20.4%, cumulative 48.1%)
   SEAL-310: 42 incidents (12.2%, cumulative 60.3%)
-  CONT-118: 33 incidents (9.6%, cumulative 69.9%)
-  ALIGN-207: 30 incidents (8.7%, cumulative 78.6%)
+  CONT-118: 33 incidents (9.6%, cumulative 70.0%)
+  ALIGN-207: 30 incidents (8.7%, cumulative 78.7%)
 
 Countermeasure actions:
   open: 2
@@ -76,8 +76,8 @@ Countermeasure actions:
   overdue: 1
 ```
 
-The top 5 defect codes drive 78.6% of incidents; adding TEMP-330
-(8.5%) crosses the 80% line at 87.1% — so the vital few are the top 6
+The top 5 defect codes drive 78.7% of incidents; adding TEMP-330
+(8.5%) crosses the 80% line at 87.2% — so the vital few are the top 6
 codes, and the countermeasure effort starts with ELEC-101 and
 WELD-204.
 
