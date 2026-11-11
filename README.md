@@ -4,7 +4,7 @@ A command-line tool that turns a manufacturing defect log into a prioritized
 root-cause action plan: Pareto analysis (80/20), a Pareto chart, fishbone
 (6M) category grouping, and a countermeasure action tracker.
 
-Built by **Sri Charan Kotha** — Python developer, 10+ years.
+Built by **Sri Charan Kotha**.
 
 > **Sample data is synthetic.** `data/defects.csv` and
 > `data/countermeasures.json` are generated demo data for an NCM battery-cell
@@ -76,9 +76,10 @@ Countermeasure actions:
   overdue: 1
 ```
 
-The top 4 defect codes drive 69.9% of incidents; the top 5 reach 78.6% —
-a textbook Pareto shape, which is exactly why the countermeasure effort
-starts with ELEC-101 and WELD-204.
+The top 5 defect codes drive 78.6% of incidents; adding TEMP-330
+(8.5%) crosses the 80% line at 87.1% — so the vital few are the top 6
+codes, and the countermeasure effort starts with ELEC-101 and
+WELD-204.
 
 ## Input format
 

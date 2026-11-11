@@ -184,7 +184,12 @@ def write_report(
     """Write the full analysis as a Markdown report."""
     start = df["date"].min().date()
     end = df["date"].max().date()
-    vital_few = pareto[pareto["cumulative_pct"] <= 80]
+    # Vital few: every code up to and including the one that first takes
+    # the cumulative share to (or past) 80%. The crossing code is part
+    # of the vital few — a plain `cumulative_pct <= 80` filter would
+    # drop it and leave the selection short of 80%.
+    prev_cum = pareto["cumulative_pct"].shift(fill_value=0)
+    vital_few = pareto[prev_cum < 80]
     lines = []
     lines.append("# Root-Cause Pareto Report\n")
     lines.append(f"Generated: {today.isoformat()}  ")
